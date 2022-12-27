@@ -1,0 +1,39 @@
+﻿.parent {
+	width: 950px;
+	height: 300px;
+	border: thin solid #000000;
+	background-color:#00CCFF;
+	margin-top:30px;
+}
+.Mom {
+		width: 900px;
+	height: 250px;
+	vertical-align: middle;
+	margin-top: 22px;
+	margin-left: 20px;
+	padding-top: 12px;
+	padding-left: 10px;
+	background:aqua;
+}
+.image {
+	height: 230px;
+	width: 260px;
+	float: left;
+	}
+
+.text {
+	padding: 10px;
+	width: 600px;
+	height: 210px;
+		float: right;
+	margin-right: 10px;
+	background:#CCFFFF
+}
+
+.p {
+	font-family: "times New Roman";
+}
+
+.b {
+	font-weight: bold;
+}

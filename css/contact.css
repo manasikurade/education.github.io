@@ -1,0 +1,20 @@
+﻿
+.font-icon {
+	font-size: 50px;
+	color: #0033CC;
+}
+address {
+	font-size: 25px;
+}
+.box {
+	text-align: left;
+	background-color: #CCFFFF;
+	height: 1000px;
+	width: 750px;
+	margin-left: 350px;
+	text-align: left;
+}
+.center {
+	margin-left: 200px;
+}
+

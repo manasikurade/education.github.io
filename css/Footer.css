@@ -1,0 +1,21 @@
+﻿#footerabout li a {
+	text-decoration: none;
+	color: black;
+		font-weight: bolder;
+
+
+}
+
+.rowft {
+	background-color: #66FFFF;
+}
+a {
+	color: #FF0000;
+}
+.bi {
+	padding: 10px;
+}
+ul{
+	
+	list-style:none ;
+}
